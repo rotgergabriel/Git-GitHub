@@ -1,11 +1,11 @@
-Esto es la historia de Gabriel Augusto Rotger
+Gabriel Augusto Rotger
 
-Actualmente se encuentra estudiando git/github
+Nacionalidad: Argentina/Española
 
-soy de argentina, y de tucuman
+Ciudad: Alderetes/Tucumán
 
-Juego al futbol y al basquet
+Estudiante de programacion web
 
-tengo 33 años
+Deportista
 
-Actualmente desarrollando un proyecto con Jose Maria Lanza
+Edad: 33 años
