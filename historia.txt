@@ -8,4 +8,4 @@ Estudiante de programacion web
 
 Deportista
 
-Edad: 33 años
+Edad: 46 años
